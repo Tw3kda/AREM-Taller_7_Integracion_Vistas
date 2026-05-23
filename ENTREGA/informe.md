@@ -5,12 +5,12 @@
 - Juan Diego Escobar
 - Jacobo Andres Pacheco
 
-## 🎯 Objetivo del Taller
+##  Objetivo del Taller
 Integrar todas las vistas arquitectónicas desarrolladas a lo largo del curso (Negocio, Aplicaciones, Información, Infraestructura y Seguridad) en una narrativa visual coherente. El propósito es analizar cómo interactúan entre sí las capas tecnológicas y cómo se alinean verticalmente para soportar y automatizar los objetivos estratégicos y financieros del cliente real.
 
 ---
 
-## 🏢 1. Narrativa de las Vistas Arquitectónicas Integradas
+##  1. Narrativa de las Vistas Arquitectónicas Integradas
 
 ### A. Vista de Negocio
 Representa la transformación de la operación del cliente. Los procesos manuales, vulnerables y aislados en archivos de cálculo son reemplazados por flujos automatizados y centralizados:
@@ -41,12 +41,14 @@ No es un componente aislado, sino una capa que inyecta controles de mitigación 
 
 ---
 
-## 📊 2. Diagrama de Integración Multicapa (Mermaid)
+## 2. Diagrama de Integración Multicapa (Mermaid)
 
 A continuación se presenta el mapa arquitectónico jerárquico (*Top-Down*). El flujo continuo resaltado en color verde representa la trazabilidad completa del caso de uso crítico: **"Registrar un nuevo gasto y generar el balance financiero automático"**.
 
+<img width="4290" height="3216" alt="Tablero-Integrado-cliente" src="https://github.com/user-attachments/assets/dc72f9df-8025-4731-a586-748e23ae49c3" />
 
-## 🔄 3. Relación entre las Capas Arquitectónicas
+
+##  3. Relación entre las Capas Arquitectónicas
 
 Las vistas de la arquitectura propuesta para el estado futuro (**To-Be**) no operan de forma aislada; se encuentran conectadas e integradas de manera jerárquica y funcional bajo un enfoque de trazabilidad vertical (*Top-Down*) y transversal:
 
@@ -70,7 +72,7 @@ La seguridad no constituye un nivel jerárquico inferior ni un componente aislad
 
 
 
-## 🧠 4. Realizar una reflexión crítica sobre la coherencia de la arquitectura.
+##  4. Realizar una reflexión crítica sobre la coherencia de la arquitectura.
 
 El análisis integrado de las cinco vistas del estado futuro (**To-Be**) demuestra una alta **coherencia arquitectónica**, fundamentada en la resolución directa de las vulnerabilidades operativas del cliente mediante principios sólidos de ingeniería de software:
 
@@ -80,7 +82,7 @@ El análisis integrado de las cinco vistas del estado futuro (**To-Be**) demuest
 
 ---
 
-## 🔍 5. Investigar ejemplos reales de documentación de vistas en empresas similares.
+## 5. Investigar ejemplos reales de documentación de vistas en empresas similares.
 
 Para validar y respaldar las decisiones tomadas en este diseño arquitectónico, se analizó cómo organizaciones globales de la industria fintech, de banca digital y de software financiero estructuran, unifican y documentan sus vistas de sistemas:
 
