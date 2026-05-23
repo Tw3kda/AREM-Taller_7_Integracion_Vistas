@@ -1,5 +1,9 @@
 # 🛠️ Taller 7: Integración de Vistas de Arquitectura
-
+# Integrantes
+- Santiago Navarro Cuy
+- David Santiago Medina
+- Juan Diego Escobar
+- Jacobo Andres Pacheco
 ## 🎯 Objetivo
 
 Integrar todas las vistas arquitectónicas desarrolladas a lo largo del curso (negocio, información, aplicaciones, infraestructura y seguridad) en una narrativa visual coherente, identificando cómo se relacionan y soportan los objetivos del cliente.
